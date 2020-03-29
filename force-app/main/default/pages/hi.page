@@ -1,2 +1,6 @@
-<apex:page >hi3
+<<<<<<< HEAD
+<apex:page >hi2
+=======
+<apex:page >hi2
+>>>>>>> origin/master
 </apex:page>
